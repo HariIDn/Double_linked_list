@@ -24,6 +24,10 @@ namespace Double_linked_list
     {
         Node START;
 
+        public DoubleLinkedList()
+        {
+            START = null;
+        }
         
     }
     class Program
