@@ -116,6 +116,10 @@ namespace Double_linked_list
             else
                 return false;
         }
+        public void ascending()
+        {
+            
+        }
         
     }
     class Program
