@@ -22,7 +22,9 @@ namespace Double_linked_list
 
     class DoubleLinkedList
     {
-       
+        Node START;
+
+        
     }
     class Program
     {
