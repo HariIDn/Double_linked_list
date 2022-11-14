@@ -8,9 +8,22 @@ namespace Double_linked_list
 {
     class Node
     {
+        /*Node class represent the node of doublu linked list.
+         *it consists of the informationpart and links to its
+         *succeeding and preceeding
+         in terms of next and previous */
+        public int noMhs;
+        public string name;
 
+        public Node next;
+
+        public Node prev;
     }
 
+    class DoubleLinkedList
+    {
+       
+    }
     class Program
     {
         static void Main(string[] args)
