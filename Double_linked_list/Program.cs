@@ -85,12 +85,17 @@ namespace Double_linked_list
                 current = current.next) { }
             return (current != null);
         }
+        public bool dellNode(int rollNo)
+        {
+            
+        }
         
     }
     class Program
     {
         static void Main(string[] args)
         {
+            
         }
-    }
+    } 
 }
